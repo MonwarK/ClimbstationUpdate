@@ -1,0 +1,38 @@
+.home-heading{
+    background: url("../Images/home-background.jpg");
+}
+
+.guide-heading{
+    background: url("../Images/guides-header.jpg");
+}
+
+.contact-heading{
+    background: url("../Images/contact-background.jpg");
+}
+
+.heading{
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+}
+
+.heading h1{
+    border-left: #DC3545 5px solid;
+    color: white;
+    font-size: 3.5rem;
+    padding: 0 1.3rem;
+    position: absolute;
+    bottom: 5px;
+    left: 25px;
+}
+
+#Members img{
+    width: 6rem;
+    border-radius: 50%;
+}
+
+.mw-800{
+    max-width: 50rem;
+}
